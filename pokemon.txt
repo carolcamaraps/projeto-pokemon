@@ -4,7 +4,18 @@ https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/version
 
 https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/2.gif
 
+https://www.pokemon.com/br/pokedex/ (pra pegar as infos dos pokemons)
 
 GitHub
 
 https://github.com/devemdobro/projeto-listagem-pokemon 
+
+
+Ideias para personalizar o projeto:
+
+Random Pokemon Generator / Gerador de Pokemon Aleatório
+- mostrar um pokemon aleatorio
+
+
+Versão PT e EN
+- poder trocar entre versão em EN e PT

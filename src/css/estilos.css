@@ -81,7 +81,7 @@ main .cartao-pokemon .informacoes span {
 
 main .cartao-pokemon .gif {
     width: 85px;
-    height: 85px;
+    height: 75px;
 }
 
 main .cartao-pokemon .tipos {
@@ -112,6 +112,10 @@ main .cartao-pokemon .tipo {
 
 .inseto {
     background-color: #a6b91a;
+}
+
+.voador {
+    background-color: #a5ccde;
 }
 
 main .descricao {
